@@ -210,7 +210,7 @@ while getopts ":hvrcC" option; do
             createNumDummyFiles "$2" $3 $4 $5 $6
             ;;
     esac
-shift
+shift $((OPTIND-1))
 done
 
 
