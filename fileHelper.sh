@@ -131,7 +131,7 @@ renameFile(){
 # @argument: $4, customized output data file name. 
 #*************************************************************************************************************************
 function createDummyFile () {
-    _content=$( [ ! -z $1 ] && echo $1 || echo "This is test content." )
+    _content=$( [[ ! -z $1 ]] && echo $1 || echo "This is test content." )
     _linNum=1
 
     [[ $3 == 'N' || $3 == 'n' || $3 == 0 ]] && _linNum=0 
