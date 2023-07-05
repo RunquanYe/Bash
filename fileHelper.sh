@@ -9,8 +9,9 @@
 
 << 'HowToRunComm'
 1.How to Run Bash Script
-    a. chmod +x fileHelper.sh 
-    b. ./fileHelper.sh (Options: -h, -v, -r, -c, -C) (Arguments)  
+    a. open terminal, go the script directory.
+    b. chmod +x fileHelper.sh 
+    c. ./fileHelper.sh (Options: -h, -v, -r, -c, -C) (Arguments)  
 HowToRunComm
 
 
