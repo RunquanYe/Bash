@@ -4,7 +4,7 @@ Hello, 😄, to see more of my projects in other languages, please take a look a
 
 ---
 ## My Bash Projects
-1. [File Helper](#Product-Quotation)
+1. [File Helper](#file-helper)
 ---
 
 ## File Helper
