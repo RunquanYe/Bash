@@ -1,0 +1,22 @@
+# all the '.out', '.o' file in the directory
+**/*.out
+**/*.o
+
+# all the log files
+**/*.log
+
+# all the dummyTest files
+**/dummyTest.txt
+
+#ignore the .dSYM directory
+**/.dSYM
+
+#ignore the the .DS_Store directory
+**/.DS_Store
+
+# ignore the IDE directories
+**/.vscode
+**/.vs
+**/.idea
+
+

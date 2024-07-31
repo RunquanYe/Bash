@@ -183,7 +183,7 @@ displayProgrammerInfo(){
     printf '\e]8;;https://github.com/RunquanYe\e\\\033[35;1m[GitHub]\033[0m\e]8;;\e\\'
     printf '\e]8;;https://github.com/RunquanYe/DemoProjects\e\\\033[33;1m[Demo Projects]\033[0m\e]8;;\e\\'
     printf '\e]8;;https://www.linkedin.com/in/runquanye\e\\\033[34;1m[Linkedin]\033[0m\e]8;;\e\\'
-    printf "\n\033[37;7m==>Push Down (\033[31;7mWindows: Ctrl \033[37;7m|\033[34;7m Mac: Command \033[37;7m) key to enable upper profile links.\033[0m\n"
+    printf "\n\033[37;7m==>Push Down (\033[31;7mWindows: Ctrl \033[37;7m|\033[34;7m Mac: Command \033[37;7m) key to enable above profile links.\033[0m\n"
     #echo -e '\e]8;;https://www.linkedin.com/in/runquanye\a[Linkedin Profile]\e]8;;\a'
     printf -- '~%.0s' {1..79}; printf '\n'
 }
